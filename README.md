@@ -15,7 +15,7 @@ This can be installed with pip by or conda depending on how you manage your Pyth
 $ pip install cookiecutter
 ```
 
-ou
+or
 
 ``` bash
 $ conda config --add channels conda-forge
@@ -53,7 +53,7 @@ $ conda install cookiecutter
 ├── LICENCE.txt
 ├── README.md
 ├── requirements.txt        <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
+│                           generated with `pip freeze > requirements.txt`
 ```
 
 

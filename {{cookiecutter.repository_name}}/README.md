@@ -29,7 +29,7 @@ Project Organization
 ├── LICENCE.txt
 ├── README.md
 ├── requirements.txt        <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
+│                            generated with `pip freeze > requirements.txt`
 ```
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
