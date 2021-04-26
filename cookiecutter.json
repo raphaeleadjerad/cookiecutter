@@ -1,0 +1,7 @@
+{
+    "project_name": "Name of project",
+    "repository_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "author_name": "Raphaele Adjerad",
+    "description": "Short description of the project",
+    "open_source_license": ["MIT", "Not open source"]
+}
